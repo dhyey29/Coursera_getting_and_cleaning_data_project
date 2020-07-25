@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-This is the course project for Coursera's Getting and Cleaning Data Course provided by John Hopkins University. The `Codebook.md` file, describes each variable in the `tidy_data.txt` and provides explanation with how the `data_cleaning.R` script works. The `data_cleaning.R` script, performs the following tasks:
+This is the course project for Coursera's Getting and Cleaning Data Course provided by John Hopkins University. The `Codebook.md` file, describes each variable in the `tidy_data.txt` and provides explanation with how the `run_analysis.R` script works. The `run_analysis.R` script, performs the following tasks:
 
  1. Downloads the project's dataset files if not already available in the working directory.
  2. Combines the train and test dataset.
