@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt` and the steps performed in the `data_cleaning.R` script.
+This code book summarizes the resulting data fields in `tidy.txt` and the steps performed in the `run_analysis.R` script.
 
 ## Identifiers
 
